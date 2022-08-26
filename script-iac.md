@@ -21,6 +21,6 @@ cd linux-site-dio
 cp -R * /var/www/html/
 ```
 
-ctrl+o  para salvar 
-ctrl+x sair do nano
+ctrl+o para salvar, 
+ctrl+x sair do nano,
 chmod +x [nome do arquivo] para dar permissão
