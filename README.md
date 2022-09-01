@@ -2,9 +2,9 @@
 
 ## Desafios: 
 
-* Instalação de apache2 e unzip 
+* Instalação de apache2 e unzip ✔
 * atualizar servidor do linux ✔
-* baixar aplicações disponivel 
+* baixar aplicações disponivel ✔
 * restaurar snapshot anterior da MV ✔
 * copiar arquivos da aplicação no diretorio padrão do apache ✔
 * subir arquivo script para um repo do git ✔
